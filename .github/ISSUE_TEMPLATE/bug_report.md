@@ -2,7 +2,7 @@
 name: Bug report
 about: Create an issue report
 title: "[BUG]"
-labels: bug
+labels: Triage
 assignees: hedrickj
 
 ---
