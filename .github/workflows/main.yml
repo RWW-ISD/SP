@@ -13,5 +13,5 @@ jobs:
       - name: Create or Update Project Card
         uses: peter-evans/create-or-update-project-card@v1
         with:
-          project-name: Defects
+          project-name: Defect Tracking
           column-name: Triage
