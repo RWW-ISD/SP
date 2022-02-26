@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create an issue report
-title: ''
+title: "[BUG]"
 labels: bug
 assignees: hedrickj
 
